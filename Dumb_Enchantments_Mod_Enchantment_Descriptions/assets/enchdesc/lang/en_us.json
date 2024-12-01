@@ -1,0 +1,21 @@
+{
+  "enchantment.dumbenchantments.damaged.desc": "Makes the item fragile.",
+  "enchantment.dumbenchantments.explosive.desc": "May cause your item to explode based on the this enchantment's level."
+  "enchantment.dumbenchantments.slipperiness.desc": "May cause you to drop the item while using it (based on the this enchantment's level). Applying this enchantment excludes the item from any related warranties, except where otherwise explicitly noted."
+  "enchantment.dumbenchantments.magnetism.desc": "Causes nearby mobs to be pulled towards you while holding the item based on the this enchantment's level."
+  "enchantment.dumbenchantments.restraining_order.desc": "Prevents hostile mobs from coming towards you by repelling them away."
+  "enchantment.dumbenchantments.vegan.desc": "Level 1 vegan will prevent you from hurting livestock and similar animals. Level 2 vegan will deal the same amount of damage to you as you deal to the animal, and Level 3 vegan will trap you in a cage."
+  "enchantment.dumbenchantments.betrayal.desc": "Take one half of the quantity of damage you deal."
+  "enchantment.dumbenchantments.heavy.desc": "Causes your item to be heavy, which makes you slower."
+  "enchantment.dumbenchantments.light.desc": "Makes your item so light that it makes your item weak and allows you to run faster (due to how light it is)."
+  "enchantment.dumbenchantments.junk.desc": "Each time you attack a mob it will drop junk and drops based on the this enchantment's level."
+  "enchantment.dumbenchantments.eco_friendly.desc": "Grows a random tree when you kill a mob."
+  "enchantment.dumbenchantments.bane_of_squidward.desc": "Deals higher damage to mobs with large noses, such as villagers, pillagers, and so on."
+  "enchantment.dumbenchantments.fairness.desc": "Makes it so if you attack a mob the mob will have the same armor and same weapon as you."
+  "enchantment.dumbenchantments.burning.desc": "Produces flames from the surface of the item. It will burn your hand(s) and set the ground beneath you on fire."
+  "enchantment.dumbenchantments.calories.desc": "Turns you into Gourmand from that rain game, you know the one. Falling produces an impact, which scales positively with height fallen. If you fall far enough, it is possible to one shot a Warden or Wither."
+  "enchantment.dumbenchantments.skinny.desc": "Makes you skinny. Vile sorcery indeed."
+  "enchantment.dumbenchantments.hated.desc": "Makes the bearer public enemy number three. Entities will attack the bearer."
+  "enchantment.dumbenchantments.inverted_eyes.desc": "Is supposed to invert your view. Does not seem to work."
+  "enchantment.dumbenchantments.curse_of_teleportation.desc": "Teleports you when you attack. The distance teleported scales positively with the level of this enchantment."
+}
